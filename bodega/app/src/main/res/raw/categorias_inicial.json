@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Abarrotes",
+    "descripcion": "Productos no perecederos como arroz, azúcar, aceite, etc."
+  },
+  {
+    "nombre": "Bebidas",
+    "descripcion": "Gaseosas, jugos, agua y otras bebidas."
+  },
+  {
+    "nombre": "Lácteos y Huevos",
+    "descripcion": "Leche, queso, yogur, mantequilla y huevos."
+  },
+  {
+    "nombre": "Snacks",
+    "descripcion": "Papas fritas, galletas, chocolates y dulces."
+  },
+  {
+    "nombre": "Limpieza",
+    "descripcion": "Productos para la limpieza del hogar."
+  }
+]

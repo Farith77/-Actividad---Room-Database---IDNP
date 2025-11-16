@@ -1,0 +1,83 @@
+
+[
+  {
+    "nombre": "Carlos",
+    "apellido": "Gomez",
+    "telefono": "987654321",
+    "direccion": "Av. Siempre Viva 742",
+    "email": "carlos.gomez@example.com",
+    "fechaRegistro": 1672531200000
+  },
+  {
+    "nombre": "Ana",
+    "apellido": "Martinez",
+    "telefono": "912345678",
+    "direccion": "Calle Falsa 123",
+    "email": "ana.martinez@example.com",
+    "fechaRegistro": 1672617600000
+  },
+  {
+    "nombre": "Luis",
+    "apellido": "Fernandez",
+    "telefono": "998877665",
+    "direccion": "Jr. de la Union 456",
+    "email": "luis.fernandez@example.com",
+    "fechaRegistro": 1672704000000
+  },
+  {
+    "nombre": "Maria",
+    "apellido": "Lopez",
+    "telefono": "965432109",
+    "direccion": "Av. Arequipa 1234",
+    "email": "maria.lopez@example.com",
+    "fechaRegistro": 1672790400000
+  },
+  {
+    "nombre": "Jorge",
+    "apellido": "Rodriguez",
+    "telefono": "954321098",
+    "direccion": "Calle Las Begonias 789",
+    "email": "jorge.rodriguez@example.com",
+    "fechaRegistro": 1672876800000
+  },
+  {
+    "nombre": "Sofia",
+    "apellido": "Diaz",
+    "telefono": "943210987",
+    "direccion": "Av. El Sol 555",
+    "email": "sofia.diaz@example.com",
+    "fechaRegistro": 1672963200000
+  },
+  {
+    "nombre": "Diego",
+    "apellido": "Sanchez",
+    "telefono": "932109876",
+    "direccion": "Calle Los Pinos 101",
+    "email": "diego.sanchez@example.com",
+    "fechaRegistro": 1673049600000
+  },
+  {
+    "nombre": "Laura",
+    "apellido": "Torres",
+    "telefono": "921098765",
+    "direccion": "Jr. Ica 222",
+    "email": "laura.torres@example.com",
+    "fechaRegistro": 1673136000000
+  },
+  {
+    "nombre": "Martin",
+    "apellido": "Vargas",
+    "telefono": "910987654",
+    "direccion": "Av. Angamos 333",
+    "email": "martin.vargas@example.com",
+    "fechaRegistro": 1673222400000
+  },
+  {
+    "nombre": "Elena",
+    "apellido": "Ramirez",
+    "telefono": "909876543",
+    "direccion": "Calle Schell 444",
+    "email": "elena.ramirez@example.com",
+    "fechaRegistro": 1673308800000
+  }
+]

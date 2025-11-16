@@ -1,0 +1,162 @@
+[
+  {
+    "nombre": "Arroz Superior 1kg",
+    "descripcion": "Bolsa de arroz de grano largo de 1 kilogramo.",
+    "precio": 4.50,
+    "stock": 100,
+    "categoriaId": 1,
+    "imagen": ""
+  },
+  {
+    "nombre": "Azúcar Rubia 1kg",
+    "descripcion": "Bolsa de azúcar rubia de 1 kilogramo.",
+    "precio": 3.80,
+    "stock": 120,
+    "categoriaId": 1,
+    "imagen": ""
+  },
+  {
+    "nombre": "Aceite Vegetal 1L",
+    "descripcion": "Botella de aceite vegetal de 1 litro.",
+    "precio": 8.50,
+    "stock": 80,
+    "categoriaId": 1,
+    "imagen": ""
+  },
+  {
+    "nombre": "Lentejas 500g",
+    "descripcion": "Bolsa de lentejas de 500 gramos.",
+    "precio": 3.20,
+    "stock": 150,
+    "categoriaId": 1,
+    "imagen": ""
+  },
+  {
+    "nombre": "Gaseosa 3L",
+    "descripcion": "Botella de gaseosa de 3 litros, sabor cola.",
+    "precio": 7.00,
+    "stock": 60,
+    "categoriaId": 2,
+    "imagen": ""
+  },
+  {
+    "nombre": "Jugo de Naranja 1L",
+    "descripcion": "Caja de jugo de naranja de 1 litro.",
+    "precio": 5.50,
+    "stock": 70,
+    "categoriaId": 2,
+    "imagen": ""
+  },
+  {
+    "nombre": "Agua Mineral 2.5L",
+    "descripcion": "Botella de agua mineral sin gas de 2.5 litros.",
+    "precio": 3.00,
+    "stock": 200,
+    "categoriaId": 2,
+    "imagen": ""
+  },
+  {
+    "nombre": "Leche Fresca 1L",
+    "descripcion": "Caja de leche fresca pasteurizada de 1 litro.",
+    "precio": 4.20,
+    "stock": 90,
+    "categoriaId": 3,
+    "imagen": ""
+  },
+  {
+    "nombre": "Queso Edam 200g",
+    "descripcion": "Paquete de queso Edam en lonjas de 200 gramos.",
+    "precio": 9.00,
+    "stock": 50,
+    "categoriaId": 3,
+    "imagen": ""
+  },
+  {
+    "nombre": "Yogur de Fresa 1L",
+    "descripcion": "Botella de yogur bebible sabor fresa de 1 litro.",
+    "precio": 6.50,
+    "stock": 80,
+    "categoriaId": 3,
+    "imagen": ""
+  },
+  {
+    "nombre": "Huevos (docena)",
+    "descripcion": "Docena de huevos de gallina.",
+    "precio": 7.50,
+    "stock": 40,
+    "categoriaId": 3,
+    "imagen": ""
+  },
+  {
+    "nombre": "Papas Fritas Onduladas",
+    "descripcion": "Bolsa grande de papas fritas onduladas.",
+    "precio": 5.00,
+    "stock": 110,
+    "categoriaId": 4,
+    "imagen": ""
+  },
+  {
+    "nombre": "Galletas de Soda",
+    "descripcion": "Paquete de 6 galletas de soda.",
+    "precio": 2.50,
+    "stock": 180,
+    "categoriaId": 4,
+    "imagen": ""
+  },
+  {
+    "nombre": "Chocolate de Leche 100g",
+    "descripcion": "Tableta de chocolate de leche de 100 gramos.",
+    "precio": 6.00,
+    "stock": 95,
+    "categoriaId": 4,
+    "imagen": ""
+  },
+  {
+    "nombre": "Detergente en Polvo 1kg",
+    "descripcion": "Bolsa de detergente en polvo de 1 kilogramo.",
+    "precio": 12.00,
+    "stock": 75,
+    "categoriaId": 5,
+    "imagen": ""
+  },
+  {
+    "nombre": "Lejía 1L",
+    "descripcion": "Botella de lejía tradicional de 1 litro.",
+    "precio": 3.50,
+    "stock": 85,
+    "categoriaId": 5,
+    "imagen": ""
+  },
+  {
+    "nombre": "Limpiavidrios 500ml",
+    "descripcion": "Botella de limpiavidrios con atomizador de 500ml.",
+    "precio": 7.00,
+    "stock": 65,
+    "categoriaId": 5,
+    "imagen": ""
+  },
+  {
+    "nombre": "Fideos Tornillo 500g",
+    "descripcion": "Bolsa de fideos tornillo de 500 gramos.",
+    "precio": 3.00,
+    "stock": 130,
+    "categoriaId": 1,
+    "imagen": ""
+  },
+  {
+    "nombre": "Atún en Aceite",
+    "descripcion": "Lata de filete de atún en aceite vegetal.",
+    "precio": 5.50,
+    "stock": 140,
+    "categoriaId": 1,
+    "imagen": ""
+  },
+  {
+    "nombre": "Cerveza Lager 6-pack",
+    "descripcion": "Pack de 6 latas de cerveza lager.",
+    "precio": 25.00,
+    "stock": 50,
+    "categoriaId": 2,
+    "imagen": ""
+  }
+]
