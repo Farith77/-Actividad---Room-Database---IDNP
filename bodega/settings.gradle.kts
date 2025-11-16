@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "bodega"
+rootProject.name = "Bodega"
 include(":app")
  
